@@ -52,31 +52,6 @@ A hardware-oriented digital security prototype implemented on the **Digilent Nex
         BTNC ──► Active-low reset
 ```
 
-## Repository structure
-
-```text
-Vehicle-Immobilization-System-FPGA/
-├── README.md
-├── PROJECT_STATUS.md
-├── LICENSE
-├── .gitignore
-├── rtl/
-│   ├── TopModule.v
-│   └── LockSystem.v
-├── constraints/
-│   └── Nexys4DDR.xdc
-├── docs/
-│   ├── academic_report.pdf
-│   ├── portfolio_report.md
-│   ├── reconciliation.md
-│   ├── truth_table.md
-│   └── resume_project_summary.md
-├── images/
-│   ├── locked_state.png
-│   └── unlocked_state.png
-└── verification/
-    └── test_cases.md
-```
 
 ## Why the repository contains a reconciliation note
 
